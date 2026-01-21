@@ -1,0 +1,244 @@
+*
+{
+    margin: 0;
+    padding: o;
+
+}
+.section3{
+    padding-top: 600px;
+}
+.hh1{
+  font-size: 10px;
+}
+.hamburger
+{
+    color: orange;
+    font-weight: bolder;
+    /* background-color: orange; */
+}
+.header
+{
+    background-color: black;
+    height: 100px;
+}
+.unorder
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    display: none;
+}
+.list
+{
+    list-style-type: none;
+}
+.anchor
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.anchor1
+{
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+}
+@media(min-width:992px)
+{
+    .unorder
+    {
+        display: block;
+         display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    }
+}
+
+.imgg
+{
+    height: 55px;
+    width: 55px;
+}
+.sec2p1
+{
+    font-size: 20px;
+    color: lightgrey;
+}
+
+.section4
+{
+    margin-top: 100px;
+}
+.sec4p1
+{
+    font-size: 35px;
+    font-weight: bold;
+}
+.sec4p2
+{
+    /* font-size: 20px; */
+    color: gray;
+}
+.section5
+{
+    margin-top: 100px;
+}
+.sec5div1 img
+{
+    border-radius: 50%;
+
+}
+.sec5div2
+{
+    font-size: 45px;
+}
+.section6
+{
+    margin-top: 100px;
+}
+.sec6p1
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: orange;
+}
+.sec6p2
+{
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.sec6p4
+{
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+}
+.sec6p3
+{
+    font-size: 20px;
+    font-weight: normal;
+    text-transform: capitalize;
+    color: gray;
+}
+.sec6div1
+{
+    border: 5px solid red;
+    margin-top: 30px;
+}
+.sec6divv1
+{
+    width: 90%;
+    margin: 0 auto;
+    height: 350px;
+}
+.sec6div2
+{
+    border: 5px solid red;
+    margin-top: 30px;
+}
+.sec6div3
+{
+    border: 5px solid red;
+    margin-top: 30px;
+}
+@media(min-width:992px)
+{
+    .sec6div1
+    {
+        width: 30%;
+    }
+    .sec6div2
+    {
+        width: 30%;
+    }
+    .sec6div3
+    {
+        width: 30%;
+    }
+    .section6div1
+    {
+        display: flex;
+        justify-content: space-evenly;
+    }
+   
+}
+
+
+.section7
+{
+    margin-top: 100px;
+    background-color: orange;
+    
+}
+.sec7div1
+{
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+    padding-top: 40px;
+    height: 150px;
+}
+.sec7img
+{
+   width: 40%;
+}
+.text-secondary
+{
+    text-transform: capitalize;
+}
+footer
+{
+    margin-top: 100px;
+}
+.hh1:hover
+{
+    /* color: red; */
+    background-color: red;
+    transition-duration: 2s;
+}
+.hhh1:hover
+{
+    color: yellow;
+}
+.w11:hover
+{
+    border: 6px solid red ;
+}
+.anchor:hover
+{
+    color: orange;
+
+}
+.carousel-caption{
+
+    bottom: 200px;
+    right: 0px;
+   
+    
+    
+}
+.carousel-item img{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+      object-fit: cover;
+}
+.pp1
+{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.strong1
+{
+    color: orange;
+}
+.section3
+{
+    margin-top: 100px;
+}
